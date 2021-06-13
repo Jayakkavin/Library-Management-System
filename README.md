@@ -76,9 +76,11 @@ These are the scripting languages and environment used in this module
 
 This application is written in Java.
 
-	-> [Java]  (https://github.com/TheAlgorithms/Java)
-	-> [Servlet]  (https://github.com/topics/java-servlets )
-	-> [Ms Access]  (https://github.com/topics/ms-access )
+-> [Java](https://github.com/TheAlgorithms/Java)
+	
+-> [Servlet](https://github.com/topics/java-servlets )
+	
+-> [Ms Access](https://github.com/topics/ms-access )
 
 The application uses multi threading in order to process events asynchronously.
 	
